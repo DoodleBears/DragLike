@@ -21,7 +21,7 @@
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
 #.vscode/
-.history/
+../history/
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
@@ -32,8 +32,9 @@
 .pub-cache/
 .pub/
 /build/
-.dart_tool/
-.packages/
+../dart_tool/
+../packages/
+
 
 
 # Web related
